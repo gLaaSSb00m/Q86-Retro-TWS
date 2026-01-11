@@ -127,7 +127,7 @@ header {
 
 .logo-subtext {
     font-size: 0.8rem;
-    color: var(--gray-color);
+    color: white;
 }
 
 .nav-menu {
