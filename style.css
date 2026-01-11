@@ -502,7 +502,7 @@ header {
 }
 
 .form-group label {
-    display: block;
+    display: Muted Green;
     margin-bottom: 8px;
     font-weight: 600;
     color: var(--dark-color);
